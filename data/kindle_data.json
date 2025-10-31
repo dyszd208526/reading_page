@@ -1,71 +1,302 @@
 {
   "days_read": [
-    "2024-06-02",
-    "2024-06-03",
-    "2024-06-04",
-    "2025-10-21",
-    "2025-10-23",
-    "2025-10-24",
-    "2025-10-25",
-    "2025-10-26",
-    "2025-10-27",
-    "2025-10-28",
-    "2025-10-29"
+    "2022-07-21",
+    "2022-07-20",
+    "2024-12-01",
+    "2024-12-02",
+    "2024-12-03",
+    "2024-12-27",
+    "2024-12-30",
+    "2025-01-03",
+    "2025-01-04",
+    "2025-01-05",
+    "2025-01-08",
+    "2025-01-12",
+    "2025-01-13",
+    "2025-01-19",
+    "2025-01-21",
+    "2025-01-23",
+    "2025-01-24",
+    "2025-01-25",
+    "2025-01-26",
+    "2025-01-30",
+    "2025-02-08",
+    "2025-02-09",
+    "2025-02-10",
+    "2025-02-11",
+    "2025-02-12",
+    "2025-02-13",
+    "2025-02-15",
+    "2025-02-16",
+    "2025-02-18",
+    "2025-02-19",
+    "2025-02-20",
+    "2025-02-22",
+    "2025-02-23",
+    "2025-02-24",
+    "2025-02-25",
+    "2025-02-26",
+    "2025-02-28",
+    "2025-03-05",
+    "2025-03-15",
+    "2025-03-26",
+    "2025-04-14",
+    "2025-05-11",
+    "2025-05-19",
+    "2025-05-29",
+    "2025-06-02",
+    "2025-07-24",
+    "2025-07-28",
+    "2025-07-29",
+    "2025-07-30",
+    "2025-08-17",
+    "2025-08-22",
+    "2025-08-28"
   ],
   "current_daily_streak": {
-    "duration": 7,
-    "readingMarketplace": 1,
-    "utcEndTime": "2025-10-29T07:00:00.000Z",
-    "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-10-29T00:00:00.000Z",
-    "ttl": 1761787204
+    "duration": 0
   },
   "longest_daily_streak": {
-    "duration": 7,
-    "readingMarketplace": 1,
-    "utcEndTime": "2025-10-29T07:00:00.000Z",
-    "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-10-29T00:00:00.000Z"
+    "duration": 6,
+    "readingMarketplace": 5,
+    "utcEndTime": "2025-02-12T23:00:00.000Z",
+    "start": "2025-02-08T00:00:00.000Z",
+    "end": "2025-02-13T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 2,
-    "readingMarketplace": 1,
-    "utcEndTime": "2025-10-29T07:00:00.000Z",
-    "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-10-29T00:00:00.000Z",
-    "ttl": 1761787204
+    "duration": 0
   },
   "longest_weekly_streak": {
-    "duration": 2,
-    "readingMarketplace": 1,
-    "utcEndTime": "2025-10-29T07:00:00.000Z",
-    "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-10-29T00:00:00.000Z"
+    "duration": 12,
+    "readingMarketplace": 5,
+    "utcEndTime": "2025-03-14T23:00:00.000Z",
+    "start": "2024-12-27T00:00:00.000Z",
+    "end": "2025-03-15T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "record_streak_broken",
+  "current_weekly_streak_state": "inactive",
   "goal_info": {
     "goals": {},
     "titles_read": [
       {
-        "asin": "YSZF3F37WRJZ5H7M3UAIWCWMK3XTZOBZ",
-        "read_event_id": "adf67c03-b213-4f9f-a2d6-bf4b8087c891",
-        "date_read": "2025-10-28T22:40:04-07:00",
+        "asin": "B05F9762D23B45CBB3AED619F7F964DD",
+        "read_event_id": "7dfdd04e-4df5-4a0d-a61f-9f0bf6dac2a6",
+        "date_read": "2025-10-22T19:48:38-07:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "89B965055B1648CEA71827F9B02EF1D4",
-        "read_event_id": "3b37f66c-fa1b-484e-92b8-ab7a6fd5ee0f",
-        "date_read": "2024-06-04T15:51:42Z",
+        "asin": "EEBAE2DED41044E5909CE20A30E7198B",
+        "read_event_id": "4637fafc-df21-413c-aa6d-94b3f107b079",
+        "date_read": "2025-10-08T23:53:10-07:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "F8FDD787C38F44A0A051C299191E8765",
-        "read_event_id": "904b4121-5a45-46d0-8e1b-f6dd7c820ed0",
-        "date_read": "2024-06-04T07:05:45Z",
+        "asin": "5AABBA8E1CFA427683F611D555EC6248",
+        "read_event_id": "31ea2097-3579-4874-9ccd-0ca02ea1057c",
+        "date_read": "2025-10-05T23:58:16-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "49204FC59D89402F89EC505CCB5E588A",
+        "read_event_id": "ab4451da-62f1-44fb-be5a-64376cae825d",
+        "date_read": "2025-07-27T05:23:44-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "DDF9E86E26BE46B89A28C9FE2FD58E30",
+        "read_event_id": "b6e2d2c9-d61b-4178-b1a9-463de466f8b5",
+        "date_read": "2025-07-23T22:33:33-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "F00A40B10D49457B8276F89950846BAF",
+        "read_event_id": "0531eb16-2d18-426a-9cbe-fbfae5ecb233",
+        "date_read": "2025-07-23T22:33:29-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "A86A9326D77540DF8C97FF4E992DE2CA",
+        "read_event_id": "1dd478d0-b96a-4d83-aa2f-d9f9252a4311",
+        "date_read": "2025-05-11T01:48:50-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "773AA582CD994DD7A16E140C27561E6D",
+        "read_event_id": "b97da478-bfbd-4f1d-b86a-a8f7d2f997a9",
+        "date_read": "2025-03-05T04:51:30-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "2F9D07F8FF2D4436AAE8007F9B21F1C3",
+        "read_event_id": "9b2b769c-ad27-4fe1-afeb-7d32054d1c77",
+        "date_read": "2025-02-20T04:53:47-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "C32243BB8E424BBD9B013AED207FAD14",
+        "read_event_id": "3aff039e-36ed-4573-a463-a28501e85db6",
+        "date_read": "2025-02-09T23:41:09-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "7ES3OT5KOLMCRKZEASPBIDIAMGVLTBW7",
+        "read_event_id": "6f80cfa0-4fc1-4c89-86cd-a0f891ba6e61",
+        "date_read": "2025-02-09T22:36:36-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "2XN7I3XMCQ7VUOUIPXN5GTWISYU6CWPW",
+        "read_event_id": "3d6a2fca-5168-4c75-9c65-9bd8eb3d923f",
+        "date_read": "2025-01-22T04:58:06-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "FDF427587AB14F68BCE750C379A8752D",
+        "read_event_id": "343a5f46-3af6-43a4-aae7-b4c44fc3370c",
+        "date_read": "2025-01-21T23:09:56-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "27B94C32C60E46CC9C9E736FB3A9BB47",
+        "read_event_id": "ca03c14a-8f6f-4096-afba-6370d7ab125c",
+        "date_read": "2025-01-21T23:09:42-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "1E8D32CEF7C045DD8E7B681B2BB80BEC",
+        "read_event_id": "3e27bd8b-358a-4f5a-af39-a7d72df69485",
+        "date_read": "2025-01-21T23:09:06-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "1C506EA415A14EDF9745A293E1F12C0B",
+        "read_event_id": "08ab96c4-d06c-48d0-986a-be58c47e968c",
+        "date_read": "2025-01-13T22:02:21-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "D665C113353A4018936EB7E46833CB16",
+        "read_event_id": "292a46f9-55e4-42a7-8708-843ff85ac645",
+        "date_read": "2025-01-12T21:39:58-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "95170B715B15403DB8B1ECCB7B293B13",
+        "read_event_id": "262cd1f6-dda0-4fbf-a1d0-560695930b03",
+        "date_read": "2025-01-12T21:38:36-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "C401379DC4664B9BB7ACA12661947ACE",
+        "read_event_id": "8e8d0636-91a8-4fdb-b170-081998d751a6",
+        "date_read": "2025-01-12T21:09:32-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "26AC6B3F0A684847B3D17D7E1C81FE97",
+        "read_event_id": "26a5d764-f4fe-4b07-978e-b7976a9d65fb",
+        "date_read": "2025-01-05T22:30:53-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "F4B548985C6F4A80BBCC7078363550DA",
+        "read_event_id": "92fdf2ba-9e5b-41b7-ba48-2d44bda160bf",
+        "date_read": "2025-01-02T17:33:29-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "BJ54AWMVNNXO624AMCIORPQKPU7Q5ZZF",
+        "read_event_id": "fee12f9b-c9b4-42e1-822a-95af360d6035",
+        "date_read": "2024-12-28T20:49:57-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "GU3D5FVV7FI647CHJM5R5PW3QNU4I7WS",
+        "read_event_id": "1ed92ec3-bb65-4f6a-b838-5b87bb9bf4a2",
+        "date_read": "2024-12-27T23:52:01-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "4F85B88F7ECE4297AE05B37DE57BBD0F",
+        "read_event_id": "fdb28bb3-9f93-4d96-84b2-af56fd7b2815",
+        "date_read": "2024-12-27T18:12:16-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "55FCF4CB6916443F86BE66C868EF586B",
+        "read_event_id": "68455e50-bdf8-42ad-b0ca-054258f0c71f",
+        "date_read": "2024-12-02T05:43:31Z",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "9DB26767BDAC4BEA909820791F09C862",
+        "read_event_id": "2ff7650a-bfba-47c3-9acd-a8443c4d1a69",
+        "date_read": "2024-12-02T05:43:04Z",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "BJ54AWMVNNXO624AMCIORPQKPU7Q5ZZF",
+        "read_event_id": "26b007ad-5d8a-4cf2-81ca-31d3c4cf2dcb",
+        "date_read": "2024-12-01T16:47:12Z",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "JPLMV5QXFO35LMXT7WF6LWPDSJO7L7YC",
+        "read_event_id": "e3aa920d-9d52-4d2c-940b-f501c8d7bd41",
+        "date_read": "2022-07-21T07:01:24Z",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -76,14 +307,14 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 63,
+    "daysLeftInCurrentChallenge": 62,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 2,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bookish_9917a306-061f-3bb5-9148-e001a4ec3695.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bibliophile_a45cb854-f187-33a3-b18f-9b143b7ddeb1.png",
         "quantity": 1,
-        "title": "Bookish",
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
@@ -102,11 +333,11 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bibliophile_e8c40f32-b610-30b0-8b5f-dcdf49566089.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectMonth_cf56a3c0-9331-3abf-950e-46d7ac1e8967.png",
         "quantity": 0,
-        "title": "Bibliophile",
+        "title": "Perfect Month",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       }
     ]
   }
