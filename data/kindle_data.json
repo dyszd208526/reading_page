@@ -78,6 +78,22 @@
     "goals": {},
     "titles_read": [
       {
+        "asin": "E80675F3B1D1432C853E01487B3AC6F6",
+        "read_event_id": "911266a2-91f1-4170-8487-6520c2a12a03",
+        "date_read": "2025-10-31T04:57:30-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "94E5DBA9765F4C3F80133785D921B38F",
+        "read_event_id": "4fb9e00a-4bb6-4fce-92c7-b2e784fd31f9",
+        "date_read": "2025-10-30T18:08:26-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
         "asin": "B05F9762D23B45CBB3AED619F7F964DD",
         "read_event_id": "7dfdd04e-4df5-4a0d-a61f-9f0bf6dac2a6",
         "date_read": "2025-10-22T19:48:38-07:00",
@@ -307,7 +323,7 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 62,
+    "daysLeftInCurrentChallenge": 61,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
