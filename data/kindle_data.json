@@ -51,10 +51,16 @@
     "2025-07-30",
     "2025-08-17",
     "2025-08-22",
-    "2025-08-28"
+    "2025-08-28",
+    "2025-11-01"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 5,
+    "utcEndTime": "2025-10-31T23:00:00.000Z",
+    "start": "2025-11-01T00:00:00.000Z",
+    "end": "2025-11-01T00:00:00.000Z",
+    "ttl": 1762045801
   },
   "longest_daily_streak": {
     "duration": 6,
@@ -64,7 +70,12 @@
     "end": "2025-02-13T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 5,
+    "utcEndTime": "2025-10-31T23:00:00.000Z",
+    "start": "2025-11-01T00:00:00.000Z",
+    "end": "2025-11-01T00:00:00.000Z",
+    "ttl": 1762045801
   },
   "longest_weekly_streak": {
     "duration": 12,
@@ -73,7 +84,7 @@
     "start": "2024-12-27T00:00:00.000Z",
     "end": "2025-03-15T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {},
     "titles_read": [
@@ -323,16 +334,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 61,
+    "daysLeftInCurrentChallenge": 60,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 3,
+    "totalEarnedAchievements": 4,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bibliophile_a45cb854-f187-33a3-b18f-9b143b7ddeb1.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
         "quantity": 1,
-        "title": "Bibliophile",
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
