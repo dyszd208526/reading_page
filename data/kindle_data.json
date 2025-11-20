@@ -57,12 +57,7 @@
     "2025-11-18"
   ],
   "current_daily_streak": {
-    "duration": 1,
-    "readingMarketplace": 5,
-    "utcEndTime": "2025-11-17T23:00:00.000Z",
-    "start": "2025-11-18T00:00:00.000Z",
-    "end": "2025-11-18T00:00:00.000Z",
-    "ttl": 1763514398
+    "duration": 0
   },
   "longest_daily_streak": {
     "duration": 6,
@@ -77,7 +72,7 @@
     "utcEndTime": "2025-11-17T23:00:00.000Z",
     "start": "2025-11-11T00:00:00.000Z",
     "end": "2025-11-18T00:00:00.000Z",
-    "ttl": 1763514398
+    "ttl": 1763600712
   },
   "longest_weekly_streak": {
     "duration": 12,
@@ -336,7 +331,7 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 43,
+    "daysLeftInCurrentChallenge": 42,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 4,
     "achievementsDisplayAttributes": [
