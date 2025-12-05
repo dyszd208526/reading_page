@@ -81,6 +81,14 @@
     "goals": {},
     "titles_read": [
       {
+        "asin": "F45140D46F64477581EC196C39F51D2D",
+        "read_event_id": "becddee2-36c4-4661-9abd-e3ef51c2c20e",
+        "date_read": "2025-12-04T02:53:05-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
         "asin": "50CE3799B3B245ED955918285B9E0CC3",
         "read_event_id": "8ff1170a-44e0-4f1e-b58d-b500ae4cd4ca",
         "date_read": "2025-11-25T18:08:56-08:00",
@@ -391,16 +399,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 28,
+    "daysLeftInCurrentChallenge": 27,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 4,
+    "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Trendsetter_b4eaf405-2b34-4f34-b8b0-bee54a0ac60b.png",
         "quantity": 1,
-        "title": "Head Start",
+        "title": "Trendsetter",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
