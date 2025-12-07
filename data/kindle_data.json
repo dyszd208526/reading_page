@@ -81,6 +81,14 @@
     "goals": {},
     "titles_read": [
       {
+        "asin": "225B5639828445E8BA38C35FAA089E54",
+        "read_event_id": "efea46d9-2e64-457d-969b-cff9d44cf290",
+        "date_read": "2025-12-06T03:34:06-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
         "asin": "F45140D46F64477581EC196C39F51D2D",
         "read_event_id": "becddee2-36c4-4661-9abd-e3ef51c2c20e",
         "date_read": "2025-12-04T02:53:05-08:00",
@@ -399,7 +407,7 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 26,
+    "daysLeftInCurrentChallenge": 25,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
