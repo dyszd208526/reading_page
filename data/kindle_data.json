@@ -73,12 +73,7 @@
     "end": "2025-02-13T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 1,
-    "readingMarketplace": 5,
-    "utcEndTime": "2026-01-15T23:00:00.000Z",
-    "start": "2026-01-15T00:00:00.000Z",
-    "end": "2026-01-16T00:00:00.000Z",
-    "ttl": 1769217097
+    "duration": 0
   },
   "longest_weekly_streak": {
     "duration": 12,
@@ -87,10 +82,18 @@
     "start": "2024-12-27T00:00:00.000Z",
     "end": "2025-03-15T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "at_risk",
+  "current_weekly_streak_state": "inactive",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "QUZHY4YKWEVI4PGSG4VW77U645XMJYU6",
+        "read_event_id": "ed828fda-989d-457e-9596-00c72978c321",
+        "date_read": "2026-01-23T06:05:13-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "MQOOQLRWW4KVYQ5FFI2WNSGMSIKCFX7G",
         "read_event_id": "8ec4a5bf-3e6f-4803-914b-9b5a6ce1c412",
@@ -466,14 +469,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 67,
+    "daysLeftInCurrentChallenge": 66,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 2,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookish_59a1a25a-c831-32be-9dee-cb84602cba40.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookworm_50bad16e-c23b-3f36-af72-4fe0a33286c3.png",
         "quantity": 1,
-        "title": "Bookish",
+        "title": "Bookworm",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
