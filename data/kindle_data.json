@@ -62,7 +62,8 @@
     "2026-01-15",
     "2026-01-16",
     "2026-01-24",
-    "2026-01-27"
+    "2026-01-27",
+    "2026-03-09"
   ],
   "current_daily_streak": {
     "duration": 0
@@ -75,7 +76,12 @@
     "end": "2025-02-13T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 5,
+    "utcEndTime": "2026-03-08T23:00:00.000Z",
+    "start": "2026-03-09T00:00:00.000Z",
+    "end": "2026-03-09T00:00:00.000Z",
+    "ttl": 1773192166
   },
   "longest_weekly_streak": {
     "duration": 12,
@@ -84,7 +90,7 @@
     "start": "2024-12-27T00:00:00.000Z",
     "end": "2025-03-15T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {},
     "titles_read": [
@@ -479,16 +485,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 22,
+    "daysLeftInCurrentChallenge": 21,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_NobleSteed_02047b0f-8c16-44e2-be13-c7ddabc7df5f.png",
-        "quantity": 1,
-        "title": "Noble Steed",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
+        "quantity": 2,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
